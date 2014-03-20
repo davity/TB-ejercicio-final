@@ -1,1 +1,4 @@
 A guan ban buluba, balán ban bú.
+#Indice
+**1.** Lee el manual
+**2.** Lee bien el ^^^^do manual
